@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C8CC-AF41
+
+ Directory of D:\NUS-DevOps\NUSISS_GitTest
+
+29/07/2019  12:08 PM    <DIR>          .
+29/07/2019  12:08 PM    <DIR>          ..
+29/07/2019  11:13 AM                 0 README.md
+29/07/2019  12:08 PM                 0 test_accident.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  125,901,459,456 bytes free
